@@ -1,3 +1,3 @@
-def calcuulator (a,b):
+def calculator (a,b):
     return (a+b)
-print (calculaor(10,17))
+print (calculator(10,17))
